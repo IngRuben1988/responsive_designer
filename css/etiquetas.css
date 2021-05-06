@@ -1,0 +1,64 @@
+/* CSS Document */
+.tie-logo
+    {
+		height:60px;
+		background-image:url(../img/logo.fw.png);	
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: center;
+	}
+
+	
+.tie-footer-titulos
+    {
+		font-family:"muestra_1";
+		font-size:25px;
+		font:bold;
+		background-color:#333333;	
+		color:#FFF;
+		width:250px;
+		text-align:center;
+		border-radius:7px;
+		border:#FFF dotted;
+	}
+.tie-contacto-texto
+   {
+		color:#FFFFFF;
+		font-size:17px;
+		text-align:justify;
+	}
+	
+.tie-cuadro-titulo
+	{
+		font-family:"muestra_1";
+		font-size:20px;
+		text-align:center;
+		color:#555;
+		margin:3px 3px 3px 3px;
+ 	}
+.tie-texto-marcos
+	{
+		font-family:Georgia, "Times New Roman", Times, serif;
+		font-size:16px;
+		color:#333333;
+		text-align:justify;
+		margin:5px 14px 5px 14px;
+	}
+	
+.tie-margenes
+	{
+		margin:2px 4px 3px 4px;
+	}
+
+.tie-footer-creditos
+    {
+		font-family:"muestra_1";
+		font-size:16px;
+		font:bold;
+		background-color:#333333;	
+		color:#FFF;
+		width:80%;
+		text-align:center;
+		border-radius:7px;
+		border:#FFF dotted;
+	}

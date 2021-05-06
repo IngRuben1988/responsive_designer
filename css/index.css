@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+@import url("fonts.css");
+@import url("cajas.css");
+@import url("scroll.css");
+@import url("etiquetas.css");
+@import url("banners.css");
+@import url("menus.css");
+@import url("botones.css");
+
+
+.tie-header{
+	height:65px;
+	/*background-color:#39B0F0;*/
+	background-color:#FC9549;
+	}
+.tie-body{
+	
+	}
+
+.tie-footer{
+	
+	height: auto;
+	background-color:#444;
+	background-image: url(../img/pattern.png);
+	border-top:#C60 dotted;
+	}
+

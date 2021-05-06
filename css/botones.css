@@ -1,0 +1,37 @@
+/* CSS Document */
+.tie-confirmar
+	{
+		background-color:#0099FF;
+		color:#FFFFFF;
+		width:180px;
+		height:35px;
+		font-family:"muestra_1";
+		font-size:20px;
+		border:0px;
+		border-radius:5px;
+		border:#333 dotted;
+	}
+.tie-confirmar:Hover
+	{
+		background-color:#0CF;
+		border:#660 dotted;
+	}
+
+.tie-boton-marco
+	{
+		Background-color:#0099FF;
+		color:#FFFFFF;
+		width:180px;
+		height:35px;
+		font-family:"muestra_1";
+		font-size:18px;
+		border:0px;
+		border-radius:5px;
+		
+	}
+	
+.tie-boton-marco:Hover
+	{
+		background-color:#0CF;
+	
+	}
